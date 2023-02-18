@@ -15,8 +15,8 @@ data:
   #   name: xugaoyi
   #   link: https://github.com/xugaoyi
 
-deploy:
-  type: git
-  repo: git@github.com:zzzelda/portfolio.git   # yourname，自己Github用户名
-  branch: master		# 设置分支管理
+#deploy:
+#  type: git
+#  repo: git@github.com:zzzelda/portfolio.git   # yourname，自己Github用户名
+#  branch: master		# 设置分支管理
 
